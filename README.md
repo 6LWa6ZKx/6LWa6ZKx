@@ -9,7 +9,7 @@
 
 ### 🤝 Contributing to
 
-- **[databasement](https://github.com/David-Crty/databasement)** <a href="[[https://github.com/tauri-apps/plugins-workspace](https://github.com/David-Crty/databasement)](https://github.com/David-Crty/databasement)"><img src="https://img.shields.io/github/stars/tauri-apps/plugins-workspace?style=social" alt="GitHub stars" height="16"></a> — Self-hosted database backup manager with a web UI. Schedule, backup, and restore MySQL, PostgreSQL, MariaDB, Microsoft SQL Server, MongoDB, SQLite & Redis to S3, SFTP, Samba or local storage. SSH Tunnel support.
+- **[databasement](https://github.com/David-Crty/databasement)** <a href="[[[https://github.com/tauri-apps/plugins-workspace](https://github.com/David-Crty/databasement)](https://github.com/David-Crty/databasement)](https://github.com/David-Crty/databasement)"><img src="https://img.shields.io/github/stars/David-Crty/databasement?style=social" alt="GitHub stars" height="16"></a> — Self-hosted database backup manager with a web UI. Schedule, backup, and restore MySQL, PostgreSQL, MariaDB, Microsoft SQL Server, MongoDB, SQLite & Redis to S3, SFTP, Samba or local storage. SSH Tunnel support.
 
 
 ---
